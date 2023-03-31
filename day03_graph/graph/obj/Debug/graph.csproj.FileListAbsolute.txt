@@ -1,0 +1,11 @@
+C:\work\Raspberry Pi\day03_graph\graph\bin\Debug\graph.exe.config
+C:\work\Raspberry Pi\day03_graph\graph\bin\Debug\graph.exe
+C:\work\Raspberry Pi\day03_graph\graph\bin\Debug\graph.pdb
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.csproj.AssemblyReference.cache
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.csproj.SuggestedBindingRedirects.cache
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.Form1.resources
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.Properties.Resources.resources
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.csproj.GenerateResource.cache
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.csproj.CoreCompileInputs.cache
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.exe
+C:\work\Raspberry Pi\day03_graph\graph\obj\Debug\graph.pdb
